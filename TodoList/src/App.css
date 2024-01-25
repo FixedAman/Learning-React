@@ -1,0 +1,18 @@
+h1{
+  font-weight: 500;
+}
+button {
+  height: 60px;
+  width: 80px;
+}
+.Todo-List {
+  padding: 20px ;
+  text-align: center;
+
+}
+.Todo-Container{
+ text-align: center;
+}
+.kg-row{
+  margin: 7px 5px;
+}
